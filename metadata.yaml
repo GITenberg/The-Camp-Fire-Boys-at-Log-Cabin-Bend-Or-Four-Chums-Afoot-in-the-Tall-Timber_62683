@@ -1,0 +1,41 @@
+_repo: The-Camp-Fire-Boys-at-Log-Cabin-Bend-Or-Four-Chums-Afoot-in-the-Tall-Timber_62683
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wrenn, Charles L. (Charles Lewis)
+    birthdate: 1880
+    deathdate: 1952
+    gutenberg_agent_id: '25468'
+    url: http://www.gutenberg.org/2009/agents/25468
+  - agent_name: Rathborne, St. George
+    aliases:
+    - Clifton, Oliver Lee
+    - Adams, Harrison
+    - Old Broadbrim
+    birthdate: 1854
+    deathdate: 1938
+    gutenberg_agent_id: '1599'
+    url: http://www.gutenberg.org/2009/agents/1599
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/2624
+    - http://www.gutenberg.org/ebooks/author/45240
+    - https://en.wikipedia.org/wiki/St_George_Henry_Rathborne
+    - http://www.gutenberg.org/ebooks/author/4161
+description: ''
+gutenberg_issued: '2020-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62683'
+  lccn: '23007124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teenage boys -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcc 'PZ'
+- !lcsh 'Camping -- Juvenile fiction'
+- GITenberg
+title: The Camp Fire Boys at Log Cabin Bend; Or, Four Chums Afoot in the Tall Timber
+url: http://www.gutenberg.org/ebooks/62683

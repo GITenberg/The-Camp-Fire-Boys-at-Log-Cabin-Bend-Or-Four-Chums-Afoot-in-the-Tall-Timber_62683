@@ -1,5 +1,8 @@
 _repo: The-Camp-Fire-Boys-at-Log-Cabin-Bend-Or-Four-Chums-Afoot-in-the-Tall-Timber_62683
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62683-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Wrenn, Charles L. (Charles Lewis)
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/St_George_Henry_Rathborne
     - http://www.gutenberg.org/ebooks/author/4161
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62683#The-Camp-Fire-Boys-at-Log-Cabin-Bend-Or-Four-Chums-Afoot-in-the-Tall-Timber
 gutenberg_issued: '2020-07-17'
 gutenberg_type: Text
 identifiers:
